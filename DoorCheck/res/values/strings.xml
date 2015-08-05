@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">门禁考勤系统</string>
+    <string name="menu_1">设置一</string>
+    <string name="menu_2">设置二</string>
+    <string name="menu_3">设置三</string>
+    <string name="menu_4">设置四</string>
+    <string name="tab_1">场景一</string>
+    <string name="tab_2">场景二</string>
+    <string name="tab_3">场景三</string>
+    <string name="tab_4">场景四</string>
+</resources>

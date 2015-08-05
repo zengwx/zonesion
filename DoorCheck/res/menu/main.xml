@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/menu_1"
+        android:icon="@drawable/menu_1"
+        android:title="@string/menu_1"/>
+    <item
+        android:id="@+id/menu_2"
+        android:icon="@drawable/menu_2"
+        android:title="@string/menu_2"/>
+    <item
+        android:id="@+id/menu_3"
+        android:icon="@drawable/menu_3"
+        android:title="@string/menu_3"/>
+    <item
+        android:id="@+id/menu_4"
+        android:icon="@drawable/menu_4"
+        android:title="@string/menu_4"/>
+
+</menu>
