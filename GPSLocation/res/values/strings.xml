@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">智能设备GPS定位系统</string>
+    <string name="action_settings">设置</string>
+    <string name="tvLongitude">经度</string>
+    <string name="tvLatitude">纬度</string>
+    <string name="bLocGateWay">定位网关</string>
+
+</resources>
